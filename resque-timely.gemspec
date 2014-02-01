@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version         = "0.1.0"
   s.authors         = ["Tony Amoyal"]
   s.email           = "tonyamoyal@gmail.com"
-  s.description     = "This gem allows you to set time limits on Resque jobs per Job class."
+  s.description     = "Set time limits on Resque jobs per Job class."
   s.summary         = "For Resque jobs that need a time limit"
   s.homepage        = "http://github.com/getsidewalk/resque-timely"
   s.license         = "MIT"
